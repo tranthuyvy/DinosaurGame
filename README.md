@@ -1,6 +1,8 @@
 <h2>Dinosaur Running Game
+    
 # Introduction
     - A basic obstacle course game entertainment application
+    - Game is inspired by dinosaur running on Chrome browser when the internet connection is lost
 
 <h2><font color="gold">My Project</font></br>
 <img src="images/1.png"></br>
@@ -39,3 +41,7 @@ Bước 7: Download the code from github and use the code: https://github.com/tr
 <img src="images/15.png"></br>
 <img src="images/16.png"></br>
 <img src="images/17.png"></br>
+
+# Using
+    - Python
+    - Pygame
